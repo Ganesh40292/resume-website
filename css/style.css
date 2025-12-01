@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* ANIMATED BACKGROUND */
+body {
+    font-family: "Segoe UI", sans-serif;
+    color: white;
+    background: linear-gradient(-45deg, #0f2027, #2c5364, #203a43, #134e5e);
+    background-size: 400% 400%;
+    animation: bgAnim 15s ease infinite;
+}
+
+@keyframes bgAnim {
+    0% { background-position: 0% 50%; }
+    50% { background-position: 100% 50%; }
+    100% { background-position: 0% 50%; }
+}
+
+/* CONTAINER */
+.container {
+    max-width: 900px;
+    margin: auto;
+    padding: 20px;
+}
+
+/* HEADER */
+header {
+    background: rgba(0,0,0,0.7);
+}
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    padding: 6px 12px;
+    border-radius: 15px;
+}
+
+nav a.active,
+nav a:hover {
+    background: gold;
+    color: black;
+}
+
+/* HERO */
+.hero {
+    text-align: center;
+    animation: fade 1s ease;
+}
+
+@keyframes fade {
+    from {opacity:0; transform:translateY(20px);}
+    to {opacity:1; transform:translateY(0);}
+}
+
+/* BUTTON */
+.btn {
+    background: #2563eb;
+    color: white;
+    padding: 10px 18px;
+    display: inline-block;
+    margin: 8px;
+    border-radius: 20px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+.btn:hover {
+    transform: scale(1.1);
+    box-shadow: 0 0 20px black;
+}
+
+.btn-outline {
+    background: transparent;
+    border: 2px solid white;
+}
+
+/* CARDS */
+.cards {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
+    gap: 15px;
+}
+
+.card {
+    background: rgba(0,0,0,0.6);
+    padding: 15px;
+    border-radius: 15px;
+}
+
+/* PHOTO FRAME */
+.photo-frame {
+    width: 200px;
+    height: 250px;
+    margin: 15px auto;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 4px solid gold;
+    box-shadow: 0 0 15px black;
+}
+
+.photo-frame img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    background-color: black;
+}
+
+/* TABLE */
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+}
+
+.table th, .table td {
+    border: 1px solid #ccc;
+    padding: 8px;
+}
+
+/* FOOTER */
+footer {
+    text-align: center;
+    background: rgba(0,0,0,0.8);
+    padding: 10px;
+    margin-top: 15px;
+}
