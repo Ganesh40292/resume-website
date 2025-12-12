@@ -27,6 +27,7 @@ Typewriter introduction
 Smooth responsive design
 
 🎞️ Animations Used in the Website
+
 🌈 1. Animated Gradient Background
 
 A continuous, smooth multi-color gradient animation runs across the site.
@@ -52,9 +53,8 @@ Cards with rounded corners and soft shadows create clean visual separation of co
 
 Switching between light and dark modes smoothly transitions colors across the interface.
 
-📁 Project Folder Structure
 
-(👈 This section now displays PERFECTLY everywhere)
+📁 Project Folder Structure
 
 resume-website/
 │
@@ -82,9 +82,10 @@ JavaScript – Typewriter effect, theme toggle
 GitHub Pages – Hosting
 
 Badges:
-
 <p align="left"> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/GitHub%20Pages-black?style=for-the-badge&logo=github&logoColor=white"> </p>
+
 📚 Pages Overview
+
 🏠 Home Page
 
 Typewriter intro
@@ -142,6 +143,7 @@ Ganesh Prasad
 🇮🇳 India
 
 <p align="left"> <img src="https://img.shields.io/badge/Developer-Ganesh%20Prasad-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Role-Student-green?style=for-the-badge"> </p>
+
 ⭐ Support
 
 If you like this project, please ⭐ star the repository!
