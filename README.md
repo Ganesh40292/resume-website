@@ -102,21 +102,7 @@ Tech Used: JavaScript + CSS class toggling.
 
 <br>
 📁 Project Folder Structure
-resume-website/
-│
-├── index.html          # Home Page
-├── resume.html         # Resume Page
-├── biodata.html        # Bio-data Page
-│
-├── css/
-│   └── style.css       # Animations, themes, layout
-│
-├── js/
-│   └── script.js       # Typewriter & theme toggle logic
-│
-└── images/
-    └── profile.jpg     # Profile picture
-
+<pre> resume-website/ │ ├── index.html # Home Page ├── resume.html # Resume Page ├── biodata.html # Bio-data Page │ ├── css/ │ └── style.css # Animations, themes, layout │ ├── js/ │ └── script.js # Typewriter & theme toggle logic │ └── images/ └── profile.jpg # Profile picture </pre>
 
 <br>
 🧑‍💻 Technologies Used
