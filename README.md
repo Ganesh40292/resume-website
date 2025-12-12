@@ -1,107 +1,61 @@
 🌐 Personal Portfolio Website
 A Modern, Animated Multi-Page Portfolio Built Using HTML, CSS & JavaScript
-<br> <p align="center"> <a href="https://ganesh40292.github.io/resume-website/"> <img src="https://img.shields.io/badge/Live%20Website-Visit%20Now-brightgreen?style=for-the-badge"> </a> <img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Built%20With-HTML%20CSS%20JS-yellow?style=for-the-badge"> </p> <br>
+<p align="center"> <a href="https://ganesh40292.github.io/resume-website/"> <img src="https://img.shields.io/badge/Live%20Website-Visit%20Now-brightgreen?style=for-the-badge"> </a> <img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Version-1.0-orange?style=for-the-badge"> <img src="https://img.shields.io/badge/Built%20With-HTML%20CSS%20JS-yellow?style=for-the-badge"> </p>
 🚀 Live Website
 
 🔗 https://ganesh40292.github.io/resume-website/
 
-This website is hosted using GitHub Pages and is accessible on all devices.
+Hosted using GitHub Pages, accessible on all devices.
 
-<br>
 ⭐ Project Description
 
-This project is a clean, modern, and responsive Portfolio Website built as part of my Web Technology Laboratory assignment.
-It includes three main web pages — Home, Resume, and Bio-data, each professionally designed using card layouts, animations, and user-friendly navigation.
+This project is a modern and responsive Portfolio Website created for my Web Technology Laboratory assignment.
+It includes three main pages — Home, Resume, and Bio-data — each designed with simplicity, clarity, and a professional look in mind.
 
 The website demonstrates:
 
-Frontend development skills
-
 Clean UI/UX design
 
-Basic JavaScript interactivity
+CSS animations
 
-Dark/Light theming
+Card layouts
 
-Online hosting with GitHub Pages
+Interactive theme toggle
 
-<br>
-🎞️ Animations Included in the Website
+Typewriter introduction
 
-Below is a detailed explanation of all animations used, written professionally for academic submission and GitHub documentation.
+Smooth responsive design
 
-<br>
+🎞️ Animations Used in the Website
 🌈 1. Animated Gradient Background
 
-A smooth, multi-color gradient animation runs across the entire site.
-It adds life, depth, and modern feel to the UI without distracting the user.
+A continuous, smooth multi-color gradient animation runs across the site.
+It enhances visual appeal without affecting readability.
 
-Tech Used: CSS @keyframes + animated gradient positions.
-<br>
+⌨️ 2. Typewriter Welcome Animation
 
-⌨️ 2. Typewriter Text Animation
-
-The Home page starts with a typewriter-style welcome message.
-This animation:
-
-Engages the viewer
-
-Sets a professional tone
-
-Makes the site feel dynamic
-
-Tech Used: JavaScript + setTimeout().
-<br>
+A JavaScript-based animation that types text letter-by-letter to greet visitors dynamically.
 
 🔘 3. Button Hover Animation
 
-All buttons scale up and animate smoothly when hovered.
-This creates a pleasant, interactive experience.
+Buttons grow slightly on hover using transform: scale() and smooth transitions.
 
-Tech Used: CSS transform: scale() + transition.
-<br>
+🖼️ 4. Rectangle Photo Frame (No Distortion)
 
-🖼️ 4. Smooth Image Fit (Photo Frame Effect)
+The profile image is contained perfectly using object-fit: contain, ensuring no stretching.
 
-The profile image is placed inside a clean rectangular frame with:
+🧩 5. Card Layout Appearance
 
-No stretching
-
-No distortion
-
-Perfect aspect ratio
-
-Tech Used: CSS object-fit: contain.
-<br>
-
-🧩 5. Card Layout Design
-
-Cards appear as clean, rounded rectangles with soft edges and spacing.
-They improve readability and structure across all pages.
-<br>
+Cards with rounded corners and soft shadows create clean visual separation of content.
 
 🌗 6. Theme Toggle Animation
 
-Switching between Dark and Light mode triggers smooth color transitions.
-This enhances visual comfort and accessibility.
+Switching between light and dark modes smoothly transitions colors across the interface.
 
-Tech Used: JavaScript + CSS class toggling.
-
-<br>
-🛠️ Features & Highlights
-
-✔ Animated gradient background
-✔ Typewriter text effect
-✔ Dark / Light mode toggle
-✔ Interactive button animations
-✔ Responsive design for phone, tablet, desktop
-✔ Rectangle profile image frame
-✔ Clean card-style layout
-✔ Multi-page navigation
-✔ Elegant UI & consistent spacing
-
-<br>
 📁 Project Folder Structure
+
+(👈 This section now displays PERFECTLY everywhere)
+
 resume-website/
 │
 ├── index.html          # Home Page
@@ -117,27 +71,41 @@ resume-website/
 └── images/
     └── profile.jpg     # Profile picture
 
-<br>
 🧑‍💻 Technologies Used
-<p align="left"> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/GitHub%20Pages-black?style=for-the-badge&logo=github&logoColor=white"> </p> <br>
-📚 Website Pages Overview
+
+HTML5 – Structure
+
+CSS3 – Styling, responsive design, animations
+
+JavaScript – Typewriter effect, theme toggle
+
+GitHub Pages – Hosting
+
+Badges:
+
+<p align="left"> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/GitHub%20Pages-black?style=for-the-badge&logo=github&logoColor=white"> </p>
+📚 Pages Overview
 🏠 Home Page
 
-Typewriter animation
+Typewriter intro
 
 Theme toggle
 
-Navigation buttons
+About Me card
 
-About Me & Skills cards
+Skills card
+
+Navigation buttons
 
 🧾 Resume Page
 
-Profile photo
+Profile image
+
+Career objective
 
 Education table
 
-Objective & skills section
+Skills section
 
 📋 Bio-data Page
 
@@ -145,47 +113,40 @@ Personal details
 
 Contact information
 
-Clean table layout
+Clean table presentation
 
-Each page has matching styling for unity.
-
-<br>
 🧪 How to Run Locally
 git clone https://github.com/ganesh40292/resume-website.git
 cd resume-website
 
 
-Then open:
+Open index.html in your browser.
 
-index.html
-
-
-in any browser.
-
-<br>
 🌱 Future Enhancements
 
-💡 Resume PDF download
-💡 Contact form with backend
-💡 Achievements / certificates section
-💡 Project showcase page
-💡 Social media integration
+Resume PDF download
 
-<br>
+Backend contact form
+
+Certificates section
+
+Project showcase
+
+Social media links
+
 👤 Author
 
 Ganesh Prasad
 📧 Email: ganesh.23cs040@sode-edu.in
-Udupi,Karnataka
-🌍 India
 
-<p align="left"> <img src="https://img.shields.io/badge/Developer-Ganesh%20Prasad-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Role-Student-green?style=for-the-badge"> </p> <br>
-⭐ Support This Project
+🇮🇳 India
 
-If you liked this project or found it helpful, please give it a ⭐ on GitHub.
-Your support encourages future improvements & learning!
+<p align="left"> <img src="https://img.shields.io/badge/Developer-Ganesh%20Prasad-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Role-Student-green?style=for-the-badge"> </p>
+⭐ Support
 
-<br>
+If you like this project, please ⭐ star the repository!
+Your support motivates future improvements.
+
 🙏 Acknowledgment
 
-This website was created for the Web Technology Laboratory project, demonstrating practical skills in frontend development and cloud hosting with GitHub Pages.
+This website was developed as part of the Web Technology Laboratory project, demonstrating practical frontend skills and deployment on GitHub Pages.
