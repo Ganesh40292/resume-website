@@ -37,6 +37,7 @@ A smooth, multi-color gradient animation runs across the entire site.
 It adds life, depth, and modern feel to the UI without distracting the user.
 
 Tech Used: CSS @keyframes + animated gradient positions.
+<br>
 
 ⌨️ 2. Typewriter Text Animation
 
@@ -50,6 +51,7 @@ Sets a professional tone
 Makes the site feel dynamic
 
 Tech Used: JavaScript + setTimeout().
+<br>
 
 🔘 3. Button Hover Animation
 
@@ -57,6 +59,7 @@ All buttons scale up and animate smoothly when hovered.
 This creates a pleasant, interactive experience.
 
 Tech Used: CSS transform: scale() + transition.
+<br>
 
 🖼️ 4. Smooth Image Fit (Photo Frame Effect)
 
@@ -69,11 +72,13 @@ No distortion
 Perfect aspect ratio
 
 Tech Used: CSS object-fit: contain.
+<br>
 
 🧩 5. Card Layout Design
 
 Cards appear as clean, rounded rectangles with soft edges and spacing.
 They improve readability and structure across all pages.
+<br>
 
 🌗 6. Theme Toggle Animation
 
