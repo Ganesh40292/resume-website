@@ -27,6 +27,7 @@ Web hosting
 
 The website serves as a foundation for my web development journey.
 
+
 🛠️ Features & Highlights
 🎨 1. Animated Gradient Background
 
@@ -68,11 +69,11 @@ Mobile
 
 Includes:
 
-Home Page
+1) Home Page
 
-Resume Page
+2) Resume Page
 
-Bio-data Page
+3) Bio-data Page
 
 Accessible via a smooth navigation bar.
 
@@ -95,6 +96,8 @@ resume-website/
 
 🧑‍💻 Technologies Used
 <p align="left"> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/GitHub%20Pages-black?style=for-the-badge&logo=github&logoColor=white"> </p>
+
+
 📚 Website Pages Overview
 🏠 1. Home Page
 
@@ -132,6 +135,7 @@ Languages known
 
 All pages include a consistent header, navigation bar, and footer.
 
+
 🧪 How to Run the Project Locally
 
 Clone the repository:
@@ -142,7 +146,6 @@ git clone https://github.com/ganesh40292/resume-website.git
 Open the project folder:
 
 cd resume-website
-
 
 Open index.html in your browser.
 
@@ -184,7 +187,6 @@ Potential improvements planned:
 
 Ganesh Prasad
 📧 Email: ganesh.23cs040@sode-edu.in
-
 🌍 India
 
 <p align="left"> <img src="https://img.shields.io/badge/Developer-Ganesh%20Prasad-blue?style=for-the-badge"> <img src="https://img.shields.io/badge/Status-Student-green?style=for-the-badge"> </p>
