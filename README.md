@@ -117,6 +117,7 @@ resume-website/
 └── images/
     └── profile.jpg     # Profile picture
 
+
 <br>
 🧑‍💻 Technologies Used
 <p align="left"> <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/GitHub%20Pages-black?style=for-the-badge&logo=github&logoColor=white"> </p> <br>
